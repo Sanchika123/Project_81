@@ -1,0 +1,11 @@
+.body_background{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOdmZiwd5K22aa5Z5jHR_UV86emrVPLaiv7MxnFYU-gUNGUykntUb2yFJtXTQqImHBnG0&usqp=CAU");
+    background-size: cover;
+    background-position: center;
+}
+
+#my_canvas{
+    border-width: 10px;
+    border-style: dashed;
+    background-color: rgb(202, 201, 201);
+    }
